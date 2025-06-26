@@ -1,31 +1,27 @@
 class Solution 
 {
-    public int maxArea(int[] height) 
+    public int maxArea(int[] height) // O(n)
     {
-        // 2pointer approach Optimized approach - O(n)
-        double area = 0, maxAr = Integer.MIN_VALUE;
-        int n = height.length;
-        int i=0, j=n-1;
-        int ht;
+        // 2 pointer approach Optimized approach - O(n)
+        int ind=0;
+        int Area=0;
+        int i=0,j=height.length-1;
+        Area=Math.abs(i-j)*Math.min(height[i],height[j]);
+
         while(i<j)
         {
-            ht=Math.min(height[i],height[j]);
-            area = Math.abs(i-j)*ht;
-
-            maxAr = Math.max(area, maxAr);
-            if(area <= maxAr)
+            
+            if(height[i]<height[j])
             {
-                if(height[i]<height[j])
-                {
-                    i++;
-                }
-                else
-                {
-                    j--;
-                }
+                i++;
+            }
+            else
+            {
+                j--;
+            }
+            Area=Math.max(Area,Math.abs(i-j)*Math.min(height[i],height[j]));
 
-            }   
         }
-        return (int)maxAr;
+        return Area;
     }
 }
