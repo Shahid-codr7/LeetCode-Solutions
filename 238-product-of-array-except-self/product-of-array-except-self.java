@@ -1,5 +1,6 @@
 class Solution 
 {
+    // T(n) = O(n); Space: O(1)
     public  int[] productExceptSelf(int[] nums) {
         int i, n = nums.length;
         int pre = 1, suff = 1;
