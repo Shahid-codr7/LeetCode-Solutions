@@ -15,15 +15,3 @@ This repository is organized by problem type and difficulty level, featuring sol
 > If you have questions or suggestions, please open an issue or reach out via GitHub.
 
 Happy coding! 🚀
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/master/0001-two-sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/master/0001-two-sum) |
-<!---LeetCode Topics End-->
