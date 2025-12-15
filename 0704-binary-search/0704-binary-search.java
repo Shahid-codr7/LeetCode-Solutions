@@ -4,9 +4,9 @@ class Solution
     {
         if(nums.length == 1)
             return (nums[0]==target)?0:-1;
-            
+
         int left=0, right=nums.length-1, mid=0;
-        while(left<right)
+        while(left<=right)
         {
             mid = left + (right - left)/2;
             if(nums[mid] == target)
