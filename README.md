@@ -15,3 +15,15 @@ This repository is organized by problem type and difficulty level, featuring sol
 > If you have questions or suggestions, please open an issue or reach out via GitHub.
 
 Happy coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+<!---LeetCode Topics End-->
