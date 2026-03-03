@@ -12,7 +12,7 @@ class Solution
             if(matrix[mid/m][mid%m] == target)
                 return true;
 
-            else if(matrix[mid/2][mid%2] > target)
+            else if(matrix[mid/m][mid%m] > target)
                 right=mid-1;
 
             else
