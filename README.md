@@ -41,4 +41,12 @@ Happy coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
