@@ -49,4 +49,13 @@ Happy coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
