@@ -26,6 +26,7 @@ Happy coding! 🚀
 | [0162-find-peak-element](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +75,8 @@ Happy coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
