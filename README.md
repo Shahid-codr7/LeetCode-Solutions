@@ -52,6 +52,7 @@ Happy coding! 🚀
 | [0014-longest-common-prefix](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0796-rotate-string](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -69,4 +70,8 @@ Happy coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
