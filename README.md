@@ -55,6 +55,7 @@ Happy coding! 🚀
 | [0205-isomorphic-strings](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -85,4 +86,8 @@ Happy coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shahid-codr7/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
